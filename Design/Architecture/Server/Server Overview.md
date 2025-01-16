@@ -1,0 +1,7 @@
+- The server uses a custom networking solution using udp only.
+- The server uses a multi-process architecture where each instance is its own process.
+- Players and Objects on the network are tracked solely through a network id (integer)
+	- this will make it so multiple of same account can connect to same instance but this can be configured to not happen per server.
+- The server makes decisions base on mutual agreement systems. There are 2 mutual agreement systems that exist so far.
+	- Clients tell the server who they can here and server only sends voice packets between two clients if both say they can hear each other.
+	- Clients tell the server what update rate other clients should be at for them and the server sends at the lowest rate between 2 players, clamped between 1 and 60.

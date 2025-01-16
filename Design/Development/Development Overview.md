@@ -1,0 +1,2 @@
+- There will be documentation kept of every script and its functionality.
+- When updating scripts there respective documentation must be updated aswell when applicable.
