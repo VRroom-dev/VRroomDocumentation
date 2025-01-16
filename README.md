@@ -1,6 +1,10 @@
 # VRroom Design & Documentation
 ### Design Document is located [[Overview|here]]
 
+### this is meant to be viewed with [Obsidian](https://obsidian.md/)
+
+#### you will also need the Excalidraw plugin for some parts aswell
+
 VRroom is the current working title of the game.
 this will likely be changed at a later point when a better one is thought of.
 
