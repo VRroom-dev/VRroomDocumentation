@@ -2,7 +2,7 @@
 
 ### this is meant to be viewed with [Obsidian](https://obsidian.md/)<br/>
 you will also need the Excalidraw plugin for some parts aswell<br/>
-<br/><br/>
+<br/>
 
 ### Design Document is located [[Overview|here]]
 
